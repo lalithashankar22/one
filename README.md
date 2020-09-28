@@ -165,5 +165,5 @@ On 9-OCT- 2019 </li>
 </ol>
 <hr>
 <h3><em>CONTACT</em></h3>
-<a href="message.html"> Message </a>
+<a href="lali.html"> Message </a>
 <center><h1>Thanks for Visiting</h1><center><br><br><br><br>
