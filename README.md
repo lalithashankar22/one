@@ -1,9 +1,10 @@
-# one
+# CV
 
 hi every one!
 
 im a student of Dr.M G R educational and research institute .this is my first try to host my website.
-<!DOCTYPE html>
+
+
 <html>
 <head>
 <meta charset="utf-8">
@@ -166,5 +167,3 @@ On 9-OCT- 2019 </li>
 <h3><em>CONTACT</em></h3>
 <a href="message.html"> Message </a>
 <center><h1>Thanks for Visiting</h1><center><br><br><br><br>
-</body>
-</html> 
